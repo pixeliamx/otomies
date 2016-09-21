@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pixeliamx/otomies/issues"
   },
-  "homepage": "https://github.com/pixeliamx/otomies#readme"
+  "homepage": "https://github.com/pixeliamx/otomies#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
