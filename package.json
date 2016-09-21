@@ -1,0 +1,19 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "Otomies Gourmet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeliamx/otomies.git"
+  },
+  "author": "Pixelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixeliamx/otomies/issues"
+  },
+  "homepage": "https://github.com/pixeliamx/otomies#readme"
+}
